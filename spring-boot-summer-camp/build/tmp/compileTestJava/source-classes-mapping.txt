@@ -1,0 +1,4 @@
+com/ag04smarts/sha/repositories/PatientRepositoryTest.java
+ com.ag04smarts.sha.repositories.PatientRepositoryTest
+com/ag04smarts/sha/SHAApplicationTests.java
+ com.ag04smarts.sha.SHAApplicationTests
